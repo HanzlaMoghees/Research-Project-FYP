@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse - Research Project & Thesis Manager",
+  "description": "Comprehensive thesis milestone tracking, document versioning, supervisor review workflow, and academic research repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
